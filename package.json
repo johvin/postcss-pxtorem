@@ -1,7 +1,7 @@
 {
   "name": "postcss-pxtorem",
   "description": "A CSS post-processor that converts px to rem.",
-  "version": "5.0.0",
+  "version": "6.0.0",
   "author": "cuth",
   "license": "MIT",
   "repository": {
@@ -26,6 +26,6 @@
   ],
   "dependencies": {
     "object-assign": "^4.1.0",
-    "postcss": "^6.0.23"
+    "postcss": "^7.0.26"
   }
 }
